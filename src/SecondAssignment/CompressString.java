@@ -1,4 +1,4 @@
-package FurstAssignment;
+package SecondAssignment;
 
 public class CompressString {
 
